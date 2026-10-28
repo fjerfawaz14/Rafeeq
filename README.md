@@ -39,6 +39,9 @@ Rafeeq is a prototype agent designed to assist with municipal-service inquiries.
 - `evaluate.py`: Evaluation runner
 - `SECURITY_NOTE.md`: Threat analysis and security limitations
 - `README.md`: Project documentation
+- `.gitignore`: Excludes local secrets and generated Python files from future Git tracking.
+- `env.example`: Blank template for the OpenRouter API key.
+
 
 ## Requirements
 
