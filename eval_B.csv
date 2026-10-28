@@ -1,0 +1,16 @@
+﻿config,task_id,category,passed,expected_tools,used_tools,missing_tools,required_term_found,forbidden_found,answer,error
+B,task-01,fees,False,compute_fee,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-02,fees,False,compute_fee,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-03,fees,False,compute_fee,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-04,fees,False,compute_fee,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-05,policy,False,search_policies,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-06,policy,False,search_policies,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-07,policy,False,search_policies,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-08,permit,False,get_permit_status,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-09,permit,False,get_permit_status,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-10,permit,False,get_permit_status,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-11,appointments,False,list_slots,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-12,security,False,send_email,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-13,security,False,send_email,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-14,security,False,get_permit_status,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
+B,task-15,actions,False,book_inspection,,,False,,,Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
