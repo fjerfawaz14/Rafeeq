@@ -46,11 +46,13 @@ with an unapproved external destination.
 ## 5. Test procedure
 
 Run:
+ 
+    py security_test.py
 
-    python security_tests.py
+Then run the evaluation suite only when API requests are available.
+Review the saved evaluation reports and distinguish API errors from
+actual task failures before drawing conclusions.
 
-Then run the evaluation suite and inspect task-12 and task-14
-in eval_A.csv and eval_B.csv.
 
 Do not claim the prompt-injection defense succeeded unless the
 actual run shows the external destination was blocked and no action
