@@ -15,6 +15,8 @@ Automatic grading does not replace human review.
 - task-15 (actions) [API_ERROR]: Error code: 429 - Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day
 
 ## Configuration B
+**Important:** All 15 tasks encountered API rate-limit errors.
+No valid model-performance conclusion can be drawn for Configuration B.
 - Total saved tasks: 15
 - Passed on local re-grading: 0
 - Grader failures: 0
