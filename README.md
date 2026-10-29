@@ -61,7 +61,7 @@ py -m pip install -r requirements.txt
 
 ### 2. Configure the API Key
 
-Create or update the `rafeeq_standalone.env` file in the project directory:
+Create or update the `env.example` file in the project directory:
 
 ```text
 OPENROUTER_API_KEY=YOUR_API_KEY
